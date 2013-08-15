@@ -2,4 +2,9 @@ Hola a todos
 
 Esta es la clase t520
 
+<<<<<<< HEAD
+
+Prueba de Sincronización // SitechSistemas
+=======
 Estamos en el mes de agosto
+>>>>>>> origin/Otra
